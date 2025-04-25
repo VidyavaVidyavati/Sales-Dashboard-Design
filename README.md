@@ -1,7 +1,7 @@
 # Sales Dashboard Design - Power BI Project
 This project features an interactive and visually informative **Sales Dashboard** created using **Power BI**. It presents a comprehensive overview of sales performance across different segments, regions, categories, delivery durations, and more. The dashboard is built using raw sales data from an Excel dataset and showcases key business insights through a variety of charts, KPIs, and filters.
 
-# Dataset used
+## Dataset used
 - <a href="https://github.com/VidyavaVidyavati/Sales-Dashboard-Design/blob/main/Sales%20data.xlsx">Dataset</a>
 
 ## 🧠 Business Insights
@@ -19,7 +19,7 @@ This project features an interactive and visually informative **Sales Dashboard*
 - Microsoft Power BI
 - Power Query
 
-# Final Dashboard
+## Final Dashboard
 - <a href="https://github.com/VidyavaVidyavati/Sales-Dashboard-Design/blob/main/Interactive%20dashboard.pbix">Dashboard</a>
 
 ## ✅ Conclusion
