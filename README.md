@@ -25,11 +25,3 @@ This project features an interactive and visually informative **Sales Dashboard*
 ## ✅ Conclusion
 This Power BI Sales Dashboard successfully transforms raw data into strategic insights. It helps stakeholders monitor performance metrics, understand regional trends, identify best-selling products, and optimize delivery logistics. The interactivity via slicers enhances user experience, making this an excellent tool for both analysts and business leaders.
 
-
-
----
-
-## 📬 Contact
-
-**Author**: Vidyavati Khot  
-Feel free to connect or reach out for collaboration or feedback.
